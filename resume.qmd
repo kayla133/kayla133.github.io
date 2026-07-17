@@ -1,91 +1,102 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Makayla Hansen's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
-</div>
 
 
-## Currently
+makaylahansen04@gmail.com • (435) 237-3530 • [linkedin.com/in/makaylahansen2023](https://www.linkedin.com/in/makaylahansen2023)
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+---
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+#### Brigham Young University - Idaho
+September 2023 - Present
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Bachelor of Science; Software Engineering — 3.97 GPA
 
-- Sizar
+- Emphasis in Full-Stack Web Development
+- Certificates:
+  - IT Fundamentals (Awarded December 2025)
+  - Web and Computer Programming (Awarded April 2026)
+  - Data Science (Current)
 
-`1667 - death`
-__Trinity College, Cambridge__
+<br>
 
-- Fellow
+#### Box Elder High School
+August 2019 - June 2023
+
+High School Diploma — 4.0 GPA
+
+- Top 3%
+
+---
+
+## Work Experience
+
+#### BYU-Idaho — Curriculum Specialist
+Rexburg, ID | June 2026 - Present
+
+- Worked closely with Curriculum Analyst to improve degree programs across the University
+- Used organizational skills to set up a brand-new team
+- Leveraged AI tools to improve daily tasks and overall performance of manual tasks
+
+<br>
+
+#### BYU-Idaho — Degree Verification Specialist
+Rexburg, ID | September 2025 - June 2026
+
+- Partnered with a team to guarantee integrity of over 200,000 student records through business systems analysis, reporting, and workflow improvement
+- Led a project overseeing verification of over 10,000 applications
+- Leveraged technological skills to develop 2 mail merge converters, organize data, monitor graduation activity, support audits, and identify process improvement
+- Sought enhancements to improve efficiency, data integrity, and student experience, helping about 5,000 students graduate
+
+<br>
+
+#### BYU-Pathway Worldwide — Enrollment Verification Team
+Remote | June 2025 - September 2025
+
+- Collaborated with a team to manually enter student data, handling sensitive information and maintaining data integrity. Completed over 150 cases
+
+<br>
+
+#### BYU-Idaho — Copyeditor for Online Content
+Rexburg, ID | April 2024 - September 2024
+
+- Collaborated with a team to edit approximately 40 textbook chapters and 15 Canvas courses for BYU-Idaho and BYU Pathway Worldwide. Checked for copyright and cultural infringement and followed guidelines set by the company style guide
+
+---
+
+## Projects
+
+#### Motor Sport Driver Stats
+January 2026 - April 2026
+
+- Built a website using HTML, CSS, JavaScript, and JSON
+- Created over 20 API calls with strong interactivity between user and program
+
+<br>
+
+#### Calendar Application
+January 2026 - Present
+
+- Created a calendar application with a team
+
+---
+
+## Leadership
+
+#### Future Business Leaders of America — Vice President
+Brigham City, UT | August 2022 - June 2023
+
+- Guided over 15 club activities to improve academics and prepare for state and national competitions
+
+<br>
+
+#### Key Club — President
+Brigham City, UT | August 2020 - June 2022
+
+- Led a team of 6 members to serve school and community when needs arose
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+## Copyright 2026
